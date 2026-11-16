@@ -1,11 +1,5 @@
-# STA220H1 – Assignment 1: Exploring the Netflix Dataset 
-Hanzade Zehra Ucan 
+Exploring the Netflix Dataset 
 
-1011766876 
-
-Course: STA220H1 
-
-November 6, 2026
                                                                
 
 
